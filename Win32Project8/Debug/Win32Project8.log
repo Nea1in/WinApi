@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  Win32Project8.cpp
+C:\Users\S\Desktop\Новая папка (2)\2\EXAM_1522653177\EXAM\Win32Project8\Win32Project8.cpp(36,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\S\Desktop\Новая папка (2)\2\EXAM_1522653177\EXAM\Win32Project8\Win32Project8.cpp(81,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\S\Desktop\Новая папка (2)\2\EXAM_1522653177\EXAM\Win32Project8\Win32Project8.cpp(119,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\S\Desktop\Новая папка (2)\2\EXAM_1522653177\EXAM\Win32Project8\Win32Project8.cpp(148,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\S\Desktop\Новая папка (2)\2\EXAM_1522653177\EXAM\Win32Project8\Win32Project8.cpp(153,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\S\Desktop\Новая папка (2)\2\EXAM_1522653177\EXAM\Win32Project8\Win32Project8.cpp(157,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\S\Desktop\Новая папка (2)\2\EXAM_1522653177\EXAM\Win32Project8\Win32Project8.cpp(162,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\S\Desktop\Новая папка (2)\2\EXAM_1522653177\EXAM\Win32Project8\Win32Project8.cpp(112,8): warning C4101: hCombo: неиспользованная локальная переменная
+  Win32Project8.vcxproj -> C:\Users\S\Desktop\Новая папка (2)\2\EXAM_1522653177\EXAM\Debug\Win32Project8.exe
